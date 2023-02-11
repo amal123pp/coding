@@ -1,4 +1,4 @@
-'''
+
 # 🚨 Don't change the code below 👇
 print("Welcome to the Love Calculator!")
 name1 = input("What is your name? \n")
@@ -23,4 +23,4 @@ love = l + o + v + e
 score = (true * 10) + love
 
 print('your score is', score)
-'''
+
